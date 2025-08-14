@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-08-13 22:54:45",
+  "single_warehouse_summary": {},
+  "multi_warehouse_summary": {
+    "total_cost": 0.0,
+    "status": "optimal"
+  },
+  "total_cost_savings": 0,
+  "recommendations": []
+}

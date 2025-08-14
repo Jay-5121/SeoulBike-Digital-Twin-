@@ -1,0 +1,6 @@
+supplier_id,supplier_name,location,capacity_per_day,reliability_score
+1,BikeSupplier_A,Seoul_Center,100,0.95
+2,BikeSupplier_B,Seoul_North,80,0.88
+3,BikeSupplier_C,Seoul_South,120,0.92
+4,BikeSupplier_D,Seoul_East,90,0.85
+5,BikeSupplier_E,Seoul_West,110,0.9

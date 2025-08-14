@@ -1,0 +1,8 @@
+route_id,from_location,to_location,distance_km,avg_transport_time_hours,cost_per_km
+1,Seoul_Center,Seoul_North,15,1.5,2.5
+2,Seoul_North,Seoul_Center,15,1.5,2.5
+3,Seoul_South,Seoul_Center,20,2.0,2.8
+4,Seoul_East,Seoul_Center,18,1.8,2.6
+5,Seoul_West,Seoul_Center,22,2.2,3.0
+6,Seoul_Center,Seoul_South,20,2.0,2.8
+7,Seoul_North,Seoul_South,25,2.5,3.2

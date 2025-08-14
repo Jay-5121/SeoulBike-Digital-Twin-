@@ -1,0 +1,2 @@
+cleaning_timestamp,original_rows,final_rows,removed_rows,columns_processed,missing_values_final,data_quality_score
+2025-08-13 22:54:40,8760,8760,0,21,0,100.0

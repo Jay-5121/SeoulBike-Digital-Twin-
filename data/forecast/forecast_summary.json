@@ -1,0 +1,23 @@
+{
+  "1": {
+    "total_predicted_demand": 1327451.5403760355,
+    "avg_daily_demand": 14749.461559733727,
+    "max_daily_demand": 30854.179414166236,
+    "min_daily_demand": 5732.8429908975095,
+    "demand_volatility": 7097.344447940702
+  },
+  "2": {
+    "total_predicted_demand": 584231.7305219083,
+    "avg_daily_demand": 6491.4636724656475,
+    "max_daily_demand": 11288.965335015848,
+    "min_daily_demand": 2243.3864639112035,
+    "demand_volatility": 2010.3359997640848
+  },
+  "3": {
+    "total_predicted_demand": 860788.5298792974,
+    "avg_daily_demand": 9564.31699865886,
+    "max_daily_demand": 15810.687599985054,
+    "min_daily_demand": 2840.6148442007097,
+    "demand_volatility": 3144.9330591118364
+  }
+}

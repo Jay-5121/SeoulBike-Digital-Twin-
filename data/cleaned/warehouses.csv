@@ -1,0 +1,4 @@
+warehouse_id,warehouse_name,location,storage_capacity,current_inventory,reorder_point,reorder_quantity,supplier_id
+1,Central_Warehouse,Seoul_Center,500,300,100,200,1
+2,North_Warehouse,Seoul_North,400,250,80,150,2
+3,South_Warehouse,Seoul_South,450,280,90,180,3
